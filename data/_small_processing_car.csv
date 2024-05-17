@@ -1,0 +1,1001 @@
+Price,CarBrand,CarModel,MfgDate,Mileage,Condition,GearBox,Fuel,CarOrigin,CarType,CarSeats
+740000000.0,Toyota,Fortuner,2017.0,94000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+379000000.0,Kia,Cerato Koup,2010.0,100000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,5.0
+1499000000.0,Volkswagen,Tiguan,2022.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,7.0
+600000000.0,Mercedes Benz,CLS Class,2010.0,100000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+406000000.0,Hyundai,Accent,2023.0,0.0,Mới,Số sàn,Xăng,Nước khác,Sedan,5.0
+298000000.0,Hyundai,Santa Fe,2007.0,144000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,SUV,7.0
+415000000.0,Toyota,Vios,2022.0,20000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+799000000.0,Toyota,Camry,2019.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+560000000.0,Toyota,Corolla Altis,2019.0,69000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+875000000.0,Honda,CR V,2021.0,43000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+310000000.0,Hyundai,Grand i10,2019.0,78000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+469000000.0,Mazda,2,2019.0,13000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+260000000.0,Nissan,Sunny,2014.0,5000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+500000000.0,Mitsubishi,Xpander,2020.0,28000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+899000000.0,Toyota,Camry,2022.0,25000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+960000000.0,Hyundai,Santa Fe,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,7.0
+355000000.0,Ford,Ranger,2014.0,16000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+475000000.0,Ford,Ranger,2017.0,65000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+275000000.0,Mercedes Benz,GLC Class,2011.0,90000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+708000000.0,Hyundai,Tucson,2019.0,51000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,5.0
+245000000.0,Hyundai,Grand i10,2017.0,69000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+405000000.0,Suzuki,Ertiga,2019.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,5.0
+1050000000.0,Ford,Ranger,2022.0,11800.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Pick up,5.0
+450000000.0,Nissan,Navara,2019.0,62000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,5.0
+705000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+810000000.0,Toyota,Corolla Cross,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+326000000.0,Toyota,Innova,2016.0,90000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+810000000.0,Toyota,Innova,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,8.0
+435000000.0,Nissan,Navara,2017.0,85000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+528000000.0,Ford,Transit,2017.0,60000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+456000000.0,Toyota,Fortuner,2014.0,93000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+465000000.0,Ford,Ranger,2017.0,120000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+495000000.0,BMW,5 Series,2010.0,112000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+1099999999.0,Audi,A8,2011.0,40000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+115000000.0,Daewoo,Gentra,2009.0,110.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+298000000.0,Chevrolet,Cruze,2016.0,68000.0,Đã sử dụng,Tự động,Xăng,Mỹ,Sedan,5.0
+675000000.0,Vinfast,Dòng khác,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+245000000.0,Toyota,Land Cruiser,2003.0,200000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+270000000.0,Toyota,Fortuner,2008.0,34999.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+200000000.0,Toyota,Innova,2008.0,232169.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Coupe,8.0
+740000000.0,Toyota,Fortuner,2017.0,86475.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+365000000.0,Honda,City,2019.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+123000000.0,Daewoo,Lacetti,2009.0,128386.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+275000000.0,Kia,K5,2010.0,156000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+699000000.0,Hyundai,Santa Fe,2018.0,58789.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+960000000.0,Mazda,CX 8,2022.0,31000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,9.0
+365000000.0,Toyota,Yaris,2014.0,60000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Hatchback,5.0
+235000000.0,Kia,Carens,2008.0,155000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,MPV,7.0
+1320000000.0,Kia,Carnival,2021.0,39000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+980000000.0,Mercedes Benz,GLC Class,2017.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+580000000.0,Kia,Seltos,2020.0,22000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+650000000.0,Hyundai,Santa Fe,2016.0,81000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+430000000.0,Honda,City,2019.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+360000000.0,Toyota,Vios,2019.0,50000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+480000000.0,Mazda,Dòng khác,2019.0,131000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+707000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+445000000.0,Ford,EcoSport,2018.0,42000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+661000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+356000000.0,Toyota,Innova,2015.0,90000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+460000000.0,BMW,1 Series,2014.0,74300.0,Đã sử dụng,Tự động,Xăng,Đức,Hatchback,5.0
+479000000.0,Mitsubishi,Xpander,2019.0,62000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,5.0
+871000000.0,Honda,HR-V,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+661000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+299000000.0,Hyundai,Accent,2012.0,56000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+848000000.0,Mazda,CX 8,2021.0,50500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+758000000.0,Kia,Sedona,2018.0,135000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+420000000.0,Toyota,Yaris,2016.0,54000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Hatchback,5.0
+288000000.0,Kia,Cerato,2011.0,98950.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+815000000.0,Toyota,Camry,2020.0,35000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+218000000.0,Honda,Civic,2008.0,100000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,4.0
+335000000.0,Toyota,Corolla Altis,2010.0,90000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+588000000.0,Honda,CR V,2017.0,81000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+565000000.0,Mazda,CX 5,2017.0,60000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+480000000.0,Mitsubishi,Triton,2017.0,79000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+700000000.0,Honda,CR X,2020.0,10000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+615000000.0,Mazda,CX 5,2018.0,61000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+800000000.0,Jaguar,XF,2015.0,144000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,4.0
+1299000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,Pick up,5.0
+420000000.0,Toyota,Innova,2015.0,124592.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,8.0
+379000000.0,Renault,Duster,2016.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+300000000.0,Toyota,Innova,2013.0,90000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+195000000.0,Nissan,Tiida,2007.0,120000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Hatchback,5.0
+596000000.0,Mitsubishi,Outlander,2019.0,77000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+315000000.0,Hyundai,Grand i10,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+395000000.0,Toyota,RAV4,2009.0,100000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,7.0
+105000000.0,Daewoo,Lacetti,2009.0,124531.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+565000000.0,Mazda,CX 5,2017.0,32000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+325000000.0,Kia,Morning,2019.0,50000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+548000000.0,Isuzu,Mu X,2016.0,85000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+412000000.0,Mazda,CX 5,2013.0,101000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+369000000.0,Kia,Morning,2021.0,17000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+112000000.0,Kia,Morning,2010.0,9.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,2.0
+849000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+436000000.0,Kia,Cerato,2018.0,100000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+599900000.0,Suzuki,XL 7,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,7.0
+135000000.0,Ford,Focus,2008.0,69998.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+775000000.0,Mazda,CX 5,2020.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+635000000.0,Toyota,Veloz Cross,2022.0,17000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+1793000000.0,Bentley,Continental,2004.0,59000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,4.0
+360000000.0,Toyota,Vios,2020.0,49000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+830000000.0,Honda,CR V,2020.0,50000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+865000000.0,Hyundai,Solati,2018.0,119000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,16.0
+588000000.0,MG,5,2022.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+290000000.0,Luxgen,7 SUV,2011.0,109000.0,Đã sử dụng,Tự động,Xăng,Đài Loan,SUV,7.0
+538000000.0,Mitsubishi,Xpander,2020.0,52000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+420000000.0,Honda,Brio,2021.0,14000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Hatchback,5.0
+445000000.0,Toyota,Vios,2021.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1250000000.0,Ford,Explorer,2017.0,33000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,8.0
+295000000.0,Toyota,Corolla Altis,2009.0,10000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+1160000000.0,Mercedes Benz,GLC Class,2018.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+415000000.0,Nissan,Navara,2017.0,89000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+195000000.0,Hyundai,Grand i10,2014.0,7000.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Sedan,5.0
+570000000.0,Toyota,Camry,2016.0,65000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+408000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+359000000.0,Hyundai,Sonata,2012.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+176000000.0,Ford,Everest,2007.0,137000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,5.0
+1029000000.0,Ford,Everest,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,SUV,7.0
+169000000.0,Ford,Transit,2009.0,888888.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+650000000.0,Mazda,3,2022.0,9700.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+475000000.0,Toyota,Vios,2020.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+579000000.0,Mazda,3,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+490000000.0,Ford,Fiesta,2015.0,87000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+440000000.0,Mitsubishi,Outlander Sport,2014.0,6700.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,5.0
+420000000.0,Hyundai,Accent,2020.0,35000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+435000000.0,Mazda,BT 50,2021.0,56000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,SUV,5.0
+1230000000.0,Kia,Carnival,2021.0,33000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+725000000.0,Kia,Carens,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+358000000.0,Ford,EcoSport,2016.0,46000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+575000000.0,Ford,Ranger,2018.0,76500.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+538000000.0,Suzuki,Ertiga,2023.0,0.0,Mới,Số sàn,Hybrid,Nước khác,MPV,7.0
+666000000.0,Mercedes Benz,C Class,2015.0,68.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+383000000.0,Ford,Escape,2011.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+180000000.0,Suzuki,Dòng khác,2021.0,20000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Pick up,2.0
+289000000.0,Hyundai,Avante,2013.0,86000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+830000000.0,Toyota,Corolla Cross,2023.0,2500.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+979000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Mỹ,Pick up,5.0
+110000000.0,Kia,K3,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,4.0
+594000000.0,Kia,Seltos,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+380000000.0,Ford,Focus,2017.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+215000000.0,Ford,Everest,2007.0,1600.0,Đã sử dụng,Số sàn,Dầu,Mỹ,SUV,7.0
+485000000.0,Mazda,BT 50,2019.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Pick up,5.0
+1068000000.0,Toyota,Fortuner,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,7.0
+285000000.0,Mercedes Benz,C Class,2009.0,11000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+800000000.0,Lexus,LS,2008.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,4.0
+820000000.0,Honda,CR V,2021.0,44000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+1520000000.0,Audi,Q7,2016.0,78000.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,7.0
+468000000.0,Kia,Cerato,2018.0,57000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+329000000.0,Hyundai,Grand i10,2020.0,30000.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,Sedan,5.0
+399000000.0,MG,Dòng khác,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+265268286.0,Hyundai,Grand i10,2014.0,68686.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,Hatchback,5.0
+1145000000.0,Mercedes Benz,C Class,2021.0,78000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1130000000.0,Ford,Everest,2022.0,15000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,7.0
+399000000.0,MG,5,2023.0,0.0,Mới,Số sàn,Xăng,Trung Quốc,Sedan,5.0
+290000000.0,Kia,K3,2014.0,96000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Sedan,5.0
+598000000.0,Hyundai,Elantra,2020.0,53000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+180000000.0,Kia,Carens,2011.0,100000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+585000000.0,Vinfast,Lux A2.0,2021.0,17500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+507000000.0,Suzuki,XL 7,2021.0,29000.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,SUV,7.0
+790000000.0,Peugeot,5008,2018.0,37000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+215000000.0,Kia,Carens,2010.0,140000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+459000000.0,Toyota,Vios,2020.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+155000000.0,Chevrolet,Spark,2015.0,45000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+235000000.0,BMW,3 Series,2006.0,97800.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+552000000.0,Toyota,Raize,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+215000000.0,Ford,Fiesta,2011.0,12000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+790000000.0,Mazda,Dòng khác,2019.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+1700000000.0,Lexus,NX,2019.0,78000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,5.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+155000000.0,Hyundai,Grand i10,2014.0,9.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Hatchback,5.0
+1590000000.0,Kia,Carnival,2022.0,12000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+190000000.0,Honda,Civic,2009.0,200000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,Sedan,4.0
+365000000.0,Nissan,Sunny,2019.0,38000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+135000000.0,Chevrolet,Captiva,2007.0,150000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+440000000.0,Hyundai,Accent,2020.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+695000000.0,Hyundai,Tucson,2019.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+242000000.0,Hyundai,Grand i10,2015.0,10000.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Hatchback,5.0
+641000000.0,Toyota,Veloz,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,MPV,7.0
+235000000.0,Toyota,Innova,2010.0,123.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+455000000.0,Toyota,Vios,2020.0,17600.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+475000000.0,Ford,Transit,2017.0,195000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,MPV,16.0
+990000000.0,Kia,Sorento,2022.0,32000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+514000000.0,Nissan,Navara,2019.0,39000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+160000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+345000000.0,Kia,K3,2014.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+485000000.0,Toyota,Innova,2018.0,82000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+800000000.0,Vinfast,Lux A2.0,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+305000000.0,Toyota,Innova,2013.0,123456.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+1099000000.0,Mercedes Benz,C Class,2021.0,21000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+720000000.0,Toyota,Corolla Cross,2020.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+460000000.0,Toyota,Vios,2020.0,46000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+340000000.0,Toyota,Fortuner,2011.0,180000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,7.0
+450000000.0,Toyota,Vios,2022.0,38000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+1849000000.0,Mercedes Benz,C Class,2023.0,0.0,Mới,Tự động,Xăng,Đức,Sedan,5.0
+1200000000.0,Kia,Carnival,2021.0,90000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,8.0
+165000000.0,Daewoo,Matiz,2009.0,68000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+406000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+280000000.0,Toyota,Corolla Altis,2009.0,115000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+665000000.0,Toyota,Hilux,2021.0,19000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+1069000000.0,Mercedes Benz,GLC,2016.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+210000000.0,Kia,Morning,2015.0,5000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Van,2.0
+1100000000.0,BMW,4 Series,2015.0,54000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+539000000.0,Mazda,BT 50,2022.0,40000.0,Đã sử dụng,Tự động,Dầu,Nhật Bản,Pick up,5.0
+678000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+435000000.0,Honda,City,2020.0,17300.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+420000000.0,BMW,3 Series,2012.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+498000000.0,Chevrolet,Colorado,2018.0,57979.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+688000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+716000000.0,Hyundai,Tucson,2021.0,36.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+519000000.0,Mitsubishi,Xpander,2021.0,21000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+345000000.0,Toyota,Vios,2019.0,70000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+315000000.0,Ford,Fiesta,2016.0,79000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+385000000.0,Mazda,BT 50,2015.0,118000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+578000000.0,Toyota,Veloz Cross,2022.0,19000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+246000000.0,Toyota,Vios,2015.0,85000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+565000000.0,Hyundai,Elantra,2020.0,14000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+465000000.0,Mazda,3,2018.0,69000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+468000000.0,Mazda,CX 5,2013.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+642000000.0,Ford,Ranger,2023.0,4000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,5.0
+265000000.0,Kia,Carens,2012.0,79000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,SUV,7.0
+460000000.0,Toyota,Corolla Altis,2015.0,87000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+707000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+1859000000.0,Mercedes Benz,GLC,2022.0,50.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+705000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+270000000.0,Hyundai,Grand i10,2018.0,45000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+485000000.0,Honda,Civic,2018.0,90.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+538000000.0,Hyundai,Kona,2020.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+957000000.0,Vinfast,VF8,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+285000000.0,Kia,Carens,2012.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+420000000.0,Toyota,Fortuner,2010.0,108000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+449000000.0,Suzuki,Ertiga,2021.0,74000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+650000000.0,Mazda,CX 5,2018.0,55000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+849000000.0,Ford,Transit,2023.0,0.0,Mới,Số sàn,Dầu,Việt Nam,SUV,16.0
+505000000.0,Suzuki,XL 7,2021.0,29000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+865000000.0,Honda,CR V,2021.0,3600.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+486000000.0,Mitsubishi,Xpander,2020.0,68999.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+519000000.0,Toyota,Avanza,2022.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+735000000.0,Ford,Ranger,2021.0,32000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+554000000.0,Hyundai,Creta,2023.0,0.0,Mới,Tự động,Xăng,Hàn Quốc,SUV,5.0
+535000000.0,BMW,5 Series,2010.0,55000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,4.0
+770000000.0,Hyundai,Santa Fe,2018.0,71000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+406000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+619000000.0,Kia,K3,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+849000000.0,Ford,Transit,2023.0,0.0,Mới,Số sàn,Dầu,Việt Nam,Van,16.0
+1050000000.0,Ford,Everest,2021.0,25000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,SUV,7.0
+1168000000.0,Toyota,Camry,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+915000000.0,Kia,Sportage,2022.0,9500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+825000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+410000000.0,Toyota,Vios,2019.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+220000000.0,Toyota,Yaris,2009.0,94000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+550000000.0,Kia,Rondo,2022.0,16000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+618000000.0,Toyota,Veloz,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+305000000.0,Isuzu,Dmax,2013.0,134560.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Pick up,5.0
+920000000.0,Toyota,Camry,2019.0,29000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+669000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+619000000.0,Mazda,CX 5,2018.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+258000000.0,Toyota,Hiace,2008.0,4000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,16.0
+1150000000.0,Mercedes Benz,C Class,2020.0,28000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+390000000.0,Toyota,Vios,2021.0,33000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+719000000.0,Mitsubishi,Outlander,2022.0,9000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,9.0
+228000000.0,Kia,Morning,2016.0,3000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,2.0
+305000000.0,Hyundai,Grand i10,2016.0,82000.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,Hatchback,5.0
+620000000.0,Toyota,Innova,2018.0,114111.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+650000000.0,Toyota,Corolla Cross,2020.0,75000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1468000000.0,Ford,Everest,2022.0,0.0,Mới,Tự động,Dầu,Thái Lan,SUV,7.0
+735000000.0,Ford,Contour,2019.0,63000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,5.0
+661000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,MPV,7.0
+568000000.0,Ford,Ranger,2021.0,60500.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+1395000000.0,Kia,Carnival,2022.0,10000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+426000000.0,Toyota,Sienna,2007.0,86000.0,Đã sử dụng,Tự động,Xăng,Mỹ,MPV,7.0
+395000000.0,Toyota,Vios,2020.0,54000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+468000000.0,Mitsubishi,Xpander,2020.0,78000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+655000000.0,Ford,Ranger,2023.0,5999.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,5.0
+365000000.0,Toyota,Innova,2016.0,105000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,MPV,8.0
+308000000.0,Toyota,Vios,2018.0,56000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+640000000.0,Cadillac,Escalade,2008.0,87600.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,8.0
+633000000.0,Toyota,Veloz,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,MPV,7.0
+436000000.0,Kia,Cerato,2018.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+530000000.0,Kia,Cerato,2020.0,51226.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+999000000.0,Toyota,Innova,2023.0,0.0,Mới,Tự động,Hybrid,Nước khác,MPV,8.0
+335000000.0,Mazda,BT 50,2015.0,13700.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+268000000.0,Ford,Ranger,2011.0,130000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+435000000.0,Nissan,Navara,2018.0,81000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+907000000.0,Vinfast,VF8,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+190000000.0,Chevrolet,Aveo,2017.0,95000.0,Đã sử dụng,Số sàn,Xăng,Mỹ,Sedan,5.0
+698000000.0,Mitsubishi,Xpander Cross,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+1809000000.0,Mercedes Benz,C Class,2022.0,5999.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+265000000.0,Toyota,Innova,2006.0,92568.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+470000000.0,Mitsubishi,Xpander,2021.0,50000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+250000000.0,Ford,Territory,2023.0,94000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+752000000.0,Toyota,Corolla Cross,2022.0,39900.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+355000000.0,Toyota,Vios,2014.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+246000000.0,Hyundai,Grand i10,2019.0,4000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+579000000.0,Mazda,3,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+475000000.0,Toyota,Vios,2020.0,17000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1499000000.0,Toyota,Prado,2017.0,79000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,7.0
+120000000.0,Daewoo,Magnus,2004.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+693000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+1248000000.0,Ford,Everest,2022.0,36800.0,Đã sử dụng,Tự động,Dầu,Thái Lan,SUV,9.0
+538000000.0,MG,ZS,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+425000000.0,Toyota,Yaris,2015.0,77779.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Hatchback,5.0
+538000000.0,Suzuki,Ertiga,2022.0,94000.0,Đã sử dụng,Số sàn,Xăng,Nước khác,MPV,7.0
+575000000.0,Kia,Sorento,2015.0,80000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,5.0
+890000000.0,Subaru,Outback,2016.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+230000000.0,Kia,Morning,2016.0,78000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+999000000.0,Mercedes Benz,C Class,2019.0,80000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+570000000.0,Toyota,Fortuner,2016.0,98000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+380000000.0,Mitsubishi,Attrage,2023.0,0.0,Mới,Số sàn,Xăng,Thái Lan,Sedan,5.0
+315000000.0,Chevrolet,Cruze,2017.0,76000.0,Đã sử dụng,Tự động,Xăng,Mỹ,Sedan,5.0
+620000000.0,Ford,Ranger,2022.0,15000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,2.0
+755000000.0,Ford,Ranger,2020.0,38000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+598000000.0,Ford,Transit,2019.0,92000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+447000000.0,Ford,EcoSport,2020.0,37000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+830000000.0,Mercedes Benz,C Class,2016.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+345000000.0,Suzuki,Swift,2016.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+200000000.0,Kia,Cerato,2009.0,100.0,Đã sử dụng,Số sàn,Xăng,Nước khác,Sedan,5.0
+658000000.0,Mitsubishi,Xpander,2023.0,1.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+1451000000.0,Porsche,Macan,2015.0,78000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+420000000.0,Toyota,Vios,2018.0,44000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+256000000.0,Kia,Dòng khác,2017.0,70000.0,Đã sử dụng,Số sàn,Dầu,Hàn Quốc,Van,2.0
+636000000.0,Mazda,CX 5,2018.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+885000000.0,Ford,Everest,2019.0,40000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+1499000000.0,Mercedes Benz,C Class,2021.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+462000000.0,Toyota,Fortuner,2012.0,116000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+458000000.0,Vinfast,VF5,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+1551000000.0,Porsche,Macan,2015.0,78000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+155000000.0,Kia,Morning,2015.0,9753.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,5.0
+439000000.0,Hyundai,Elantra,2017.0,103000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+518000000.0,Chevrolet,Colorado,2018.0,26000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+110000000.0,Ford,Ranger,2002.0,100000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+235000000.0,Chevrolet,Cruze,2012.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+159000000.0,Kia,Carens,2010.0,168000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,7.0
+685000000.0,Vinfast,Lux SA2.0,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+340000000.0,Mazda,2,2016.0,71200.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+259000000.0,Ford,Escape,2010.0,140.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1200000000.0,Mercedes Benz,AMG,2019.0,40000.0,Đã sử dụng,Tự động,Dầu,Nước khác,Sedan,4.0
+538000000.0,Kia,Cerato,2021.0,26000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+260000000.0,Kia,Morning,2017.0,23092.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+260000000.0,Ford,Focus,2010.0,61000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+898000000.0,Toyota,Camry,2019.0,56300.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+1320000000.0,Kia,Carnival,2021.0,39000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+270000000.0,Kia,Cerato,2011.0,15000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+769000000.0,Hyundai,Tucson,2022.0,0.0,Mới,Tự động,Dầu,Hàn Quốc,SUV,5.0
+685000000.0,Audi,Q5,2013.0,60000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+690000000.0,Lexus,GX,2007.0,95000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,7.0
+488000000.0,Ford,EcoSport,2021.0,48568.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,2.0
+719000000.0,Hyundai,Tucson,2020.0,39000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+425000000.0,Kia,Cerato,2020.0,39000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+455000000.0,Hyundai,Accent,2022.0,52000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+365000000.0,Ford,Ranger,2015.0,85000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+1499000000.0,Toyota,Land Cruiser Prado,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+425000000.0,Ford,EcoSport,2018.0,60668.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+551000000.0,Ford,Ranger,2020.0,36000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+300000000.0,Toyota,Wish,2008.0,79000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+690000000.0,Hyundai,Tucson,2019.0,27000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+979000000.0,Peugeot,3008,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+199000000.0,Toyota,Innova,2010.0,120000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+198000000.0,Kia,Morning,2016.0,82000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Hatchback,5.0
+465000000.0,Toyota,Corolla Altis,2017.0,66000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+399000000.0,MG,5,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+468000000.0,Ford,EcoSport,2019.0,33000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+845000000.0,Honda,CR V,2020.0,47900.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,7.0
+1000000000.0,Mercedes Benz,C Class,2017.0,100000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+499000000.0,Toyota,Avanza,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+760000000.0,Mazda,CX 5,2022.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+780000000.0,Mazda,CX 5,2023.0,6000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,SUV,5.0
+1199000000.0,Toyota,Camry,2022.0,8000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+330000000.0,Hyundai,Grand i10,2019.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+555000000.0,Toyota,Innova,2019.0,63500.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+380000000.0,Mitsubishi,Attrage,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,4.0
+410000000.0,Hyundai,Accent,2019.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+859000000.0,BMW,Dòng khác,2023.0,0.0,Mới,Số sàn,Xăng,Đức,Van,16.0
+648000000.0,Ford,Ranger,2022.0,19000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,5.0
+449000000.0,Toyota,Innova,2017.0,92000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+1228000000.0,Kia,Carnival,2021.0,59000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+899000000.0,Hyundai,Tucson,2023.0,0.0,Mới,Bán tự động,Xăng,Việt Nam,SUV,5.0
+220000000.0,Ford,Everest,2006.0,100.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+850000000.0,Kia,Sedona,2019.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+325000000.0,Hyundai,Accent,2016.0,60000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+195000000.0,Chevrolet,Captiva,2007.0,234568.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,SUV,7.0
+660000000.0,Toyota,Innova,2021.0,46000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+115000000.0,Chevrolet,Spark,2011.0,10.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+520000000.0,Toyota,Rush,2019.0,36800.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+940000000.0,BMW,5 Series,2015.0,60000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,4.0
+985000000.0,Kia,Sorento,2022.0,35000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+380000000.0,Toyota,Vios,2017.0,104000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+515000000.0,Kia,Cerato,2020.0,40000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+530000000.0,Mazda,CX 5,2016.0,65000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+805000000.0,Toyota,Fortuner,2018.0,76000.0,Đã sử dụng,Tự động,Dầu,Nước khác,SUV,7.0
+432000000.0,Toyota,Vios,2018.0,96000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+870000000.0,Ford,Everest,2019.0,20000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,SUV,7.0
+618000000.0,Toyota,Innova,2020.0,59000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+396000000.0,Hyundai,Grand i10,2022.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+140000000.0,Mercedes Benz,C Class,2004.0,200000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+440000000.0,Toyota,Innova,2017.0,96000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+664000000.0,Mazda,CX-30,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+661000000.0,Mitsubishi,Xpander Cross,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,7.0
+230000000.0,Kia,Morning,2015.0,54000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Van,2.0
+268000000.0,Honda,Accord,2009.0,112000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,4.0
+465000000.0,MG,ZS,2021.0,27000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1080000000.0,Toyota,Camry,2022.0,25000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+180000000.0,Ford,Transit,2008.0,123.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+1288000000.0,Kia,Carnival,2021.0,25000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+610000000.0,Honda,CR V,2017.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+240000000.0,Kia,Morning,2020.0,60000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+920000000.0,Ford,Everest,2020.0,50000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,SUV,7.0
+168000000.0,Chevrolet,Spark,2016.0,85000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+524000000.0,Hyundai,Stargazer,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+498000000.0,Toyota,Avanza,2022.0,42000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+620000000.0,Toyota,Fortuner,2016.0,60000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+295000000.0,BMW,3 Series,2008.0,90000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+435000000.0,Toyota,Fortuner,2015.0,85000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+745000000.0,Mitsubishi,Outlander,2019.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+395000000.0,Kia,Rondo,2016.0,95000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,MPV,7.0
+566000000.0,Toyota,Innova,2018.0,92000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,8.0
+465000000.0,Mazda,CX 5,2015.0,76416.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+907000000.0,Vinfast,VF8,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+969000000.0,Hyundai,Santa Fe,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+175000000.0,Hyundai,Grand i10,2014.0,8888.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Hatchback,5.0
+775000000.0,Honda,CR V,2018.0,36000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+345000000.0,Kia,Rio,2015.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+248000000.0,Toyota,Innova,2008.0,120000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+379000000.0,Honda,City,2018.0,69000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+535000000.0,Honda,City,2022.0,6500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+578000000.0,Kia,Seltos,2020.0,28000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+168000000.0,Hyundai,Tucson,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,5.0
+540000000.0,Mitsubishi,Xpander,2021.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+985000000.0,Peugeot,3008,2022.0,25000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1060000000.0,Toyota,Camry,2022.0,32000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+479000000.0,Hyundai,Accent,2021.0,31000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+864000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+715000000.0,Toyota,Prado,2010.0,139000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,7.0
+238000000.0,Toyota,Yaris,2008.0,99999.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Hatchback,5.0
+125000000.0,Kia,Morning,2011.0,150.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+1055000000.0,Toyota,Camry,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+436000000.0,Kia,Cerato,2018.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+340000000.0,Kia,Rio,2016.0,84000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+490000000.0,Mazda,MX 6,2017.0,53197.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,5.0
+380000000.0,Mitsubishi,Attrage,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,Sedan,5.0
+1230000000.0,Kia,Pregio,2022.0,2000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,8.0
+585000000.0,Nissan,X trail,2017.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+315000000.0,Kia,Soluto,2020.0,60000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+345000000.0,Kia,K3,2014.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+406000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+628000000.0,Toyota,Veloz,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,MPV,7.0
+350000000.0,Mitsubishi,Attrage,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+428000000.0,Toyota,Avanza,2018.0,104000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+395000000.0,Kia,Cerato,2016.0,146000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+540000000.0,Mitsubishi,Xpander,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,7.0
+650000000.0,Mazda,CX 5,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+899000000.0,Hyundai,Santa Fe,2022.0,24000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+190000000.0,Kia,Dòng khác,2016.0,170000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Sedan,5.0
+1135000000.0,Kia,Carnival,2022.0,45000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,10.0
+282000000.0,Kia,Morning,2018.0,85000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+815000000.0,Toyota,Camry,2020.0,40000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,5.0
+589000000.0,Kia,Carens,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,7.0
+458000000.0,Ford,Focus,2019.0,61000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+670000000.0,Hyundai,Santa Fe,2017.0,65000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+1290000000.0,Mercedes Benz,E Class,2020.0,40000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+390000000.0,Toyota,Venza,2009.0,78000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,5.0
+318000000.0,Kia,Soluto,2020.0,26000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+215000000.0,Toyota,Wigo,2018.0,16.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+535000000.0,Honda,HR-V,2018.0,60000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+698000000.0,Kia,Sedona,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+595000000.0,Kia,Sorento,2018.0,90000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+355000000.0,Hyundai,Accent,2019.0,81078.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+395000000.0,Ford,EcoSport,2016.0,58000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,5.0
+292000000.0,Toyota,Camry,2007.0,113000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+180000000.0,Kia,Morning,2009.0,50000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+568000000.0,Toyota,Corolla Altis,2020.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+396000000.0,Ford,Everest,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,SUV,7.0
+675000000.0,Hyundai,Tucson,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+255000000.0,Toyota,Yaris,2009.0,100000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+599900000.0,Suzuki,XL 7,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+655000000.0,Ford,Ranger,2023.0,6000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,5.0
+986000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Mỹ,Pick up,5.0
+1199000000.0,Mercedes Benz,C Class,2019.0,28000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+395000000.0,Isuzu,Dmax,2017.0,120000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+398000000.0,Toyota,Vios,2021.0,52000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+345000000.0,Kia,Rio,2016.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+228000000.0,Toyota,Innova,2007.0,138000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+1200000000.0,BMW,X6,2015.0,39997.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,8.0
+455000000.0,Chevrolet,Colorado,2019.0,40000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+225000000.0,Nissan,Livina,2011.0,95000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+945000000.0,Hyundai,Custin,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+542000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+263000000.0,Kia,Morning,2016.0,73000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+165000000.0,Kia,K5,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+315000000.0,Hyundai,i30,2011.0,30000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,4.0
+417000000.0,Ford,Ranger,2016.0,71000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+760000000.0,Mazda,CX 5,2022.0,22000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+410000000.0,Toyota,Innova,2014.0,88676.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+465000000.0,Toyota,Fortuner,2014.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+665000000.0,Vinfast,1083,2021.0,29000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1279000000.0,BMW,5 Series,2016.0,73000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,4.0
+406100000.0,Hyundai,Accent,2023.0,0.0,Mới,Số sàn,Xăng,Việt Nam,Sedan,5.0
+822000000.0,Ford,Territory,2023.0,94000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1345000000.0,Kia,Carnival,2022.0,25000.0,Đã sử dụng,Tự động,Dầu,Hàn Quốc,MPV,7.0
+1860000000.0,Toyota,Land Cruiser Prado,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+465000000.0,Hyundai,Accent,2021.0,16000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+795000000.0,Peugeot,3008,2021.0,36000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+185000000.0,Kia,Carnival,2009.0,180000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+468000000.0,Mazda,2,2022.0,4000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+528000000.0,Mitsubishi,Xpander,2020.0,30000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,5.0
+880000000.0,Toyota,Camry,2020.0,60000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+550000000.0,Mazda,CX 3,2021.0,38000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+502000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+319000000.0,Hyundai,Accent,2014.0,100000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+839000000.0,Toyota,Camry,2020.0,39000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+585000000.0,Ford,Transit,2019.0,63000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+175000000.0,Ford,Transit,2005.0,218000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,5.0
+730000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+685000000.0,Toyota,Corolla Cross,2020.0,16500.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+825000000.0,Peugeot,3008,2023.0,33000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+738000000.0,Mercedes Benz,C Class,2016.0,70000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+1469000000.0,Hyundai,Palisade,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,7.0
+528000000.0,Ford,Ranger,2020.0,70000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+839000000.0,BMW,X4,2014.0,90000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+360000000.0,Toyota,Innova,2015.0,130000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+810000000.0,Honda,HR-V,2022.0,13000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+535000000.0,Hyundai,Veracruz,2007.0,110000.0,Đã sử dụng,Tự động,Dầu,Hàn Quốc,SUV,7.0
+1155000000.0,Hyundai,Santa Fe,2022.0,40000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+150000000.0,Ford,Everest,2005.0,100000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,SUV,5.0
+530000000.0,Honda,Civic,2017.0,57000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+550000000.0,Mitsubishi,Xpander,2022.0,3000.0,Đã sử dụng,Bán tự động,Xăng,Việt Nam,MPV,7.0
+199999999.0,Toyota,Innova,2007.0,160000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+465000000.0,Toyota,Sienna,2007.0,70000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,8.0
+276000000.0,Chevrolet,Cruze,2015.0,71000.0,Đã sử dụng,Tự động,Xăng,Mỹ,Sedan,5.0
+845000000.0,Honda,CR V,2020.0,29000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+820000000.0,LandRover,Range Rover Evoque,2014.0,65000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+590000000.0,Kia,K3,2022.0,2500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+565000000.0,Toyota,Fortuner,2016.0,123075.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+219000000.0,Hyundai,Avante,2012.0,150000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+135000000.0,Hyundai,Terracan,2003.0,150000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,SUV,5.0
+760000000.0,Toyota,Camry,2019.0,52000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+375000000.0,Toyota,Innova,2016.0,150000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+550000000.0,Hyundai,Elantra,2021.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+235000000.0,Toyota,Vios,2015.0,82000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+488000000.0,Mercedes Benz,E Class,2011.0,11000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+768000000.0,Ford,Ranger,2021.0,20000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+530000000.0,Toyota,Innova,2019.0,70000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+385000000.0,Toyota,Camry,2006.0,70000.0,Đã sử dụng,Tự động,Xăng,Mỹ,Sedan,5.0
+275000000.0,Kia,Morning,2019.0,26000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+664000000.0,Mazda,CX-30,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+585000000.0,Hyundai,Grand Starex,2016.0,110000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,MPV,9.0
+220000000.0,Toyota,Innova,2008.0,13.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+661000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,7.0
+380000000.0,Toyota,Innova,2016.0,190000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+355000000.0,Hyundai,Accent,2019.0,110000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+690000000.0,Hyundai,Tucson,2019.0,22000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,5.0
+258000000.0,Mitsubishi,Grandis,2005.0,158000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,MPV,7.0
+275000000.0,Hyundai,Grand i10,2015.0,64000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+588000000.0,Kia,K3,2022.0,5000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+240000000.0,Mitsubishi,Attrage,2017.0,92000.0,Đã sử dụng,Số sàn,Xăng,Thái Lan,Sedan,5.0
+1055000000.0,Toyota,Hilux,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,Pick up,5.0
+980000000.0,Lexus,RX,2009.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1080000000.0,Honda,Accord,2022.0,5000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+445000000.0,Kia,Cerato,2018.0,35000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1618000000.0,Mercedes Benz,GLC,2020.0,24000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+125000000.0,Toyota,Zace,2002.0,10000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,5.0
+599000000.0,Nissan,X trail,2018.0,10000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+475000000.0,Toyota,Vios,2020.0,14000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+660000000.0,Toyota,Innova,2019.0,54000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+435000000.0,Mazda,6,2014.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+849000000.0,Ford,Transit,2023.0,0.0,Mới,Số sàn,Dầu,Việt Nam,Van,16.0
+798000000.0,Ford,Tourneo,2020.0,55100.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+375000000.0,Nissan,Almera,2021.0,20000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+155000000.0,Toyota,Corolla Altis,2005.0,20000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+195000000.0,Hyundai,Terracan,2006.0,88000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,SUV,5.0
+110000000.0,Mitsubishi,Xpander Cross,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,7.0
+480000000.0,Toyota,Innova,2017.0,50000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+445000000.0,Toyota,Innova,2017.0,73000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+315000000.0,BMW,X1,2010.0,11000.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,5.0
+735000000.0,Toyota,Corolla,2021.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+519000000.0,Kia,K3,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+379000000.0,Honda,CR V,2012.0,168688.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+160000000.0,Hyundai,Verna,2008.0,123.0,Đã sử dụng,Bán tự động,Xăng,Hàn Quốc,Sedan,5.0
+193000000.0,Hyundai,Grand i10,2017.0,230000.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Hatchback,5.0
+510000000.0,Toyota,Vios,2021.0,52900.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+182000000.0,Toyota,Innova,2006.0,302000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,MPV,8.0
+466000000.0,Hyundai,Accent,2022.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+519000000.0,Kia,Sonet,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+239000000.0,Kia,Carens,2015.0,90000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+436000000.0,BMW,3 Series,2012.0,80000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+215000000.0,Toyota,Innova,2006.0,102.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+999000000.0,Peugeot,3008,2022.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+574000000.0,Hyundai,Creta,2023.0,0.0,Mới,Tự động,Xăng,Hàn Quốc,SUV,5.0
+399000000.0,MG,5,2023.0,0.0,Mới,Số sàn,Xăng,Trung Quốc,Sedan,5.0
+680000000.0,Peugeot,2008,2021.0,36000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+498000000.0,Ford,EcoSport,2019.0,32002.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+318000000.0,Toyota,Wigo,2019.0,27000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+469000000.0,Toyota,Venza,2009.0,60500.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+430000000.0,Nissan,Almera,2021.0,16000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+339000000.0,Toyota,Innova,2014.0,9999.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,MPV,7.0
+539000000.0,Ford,Ranger,2016.0,10000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+460000000.0,Chevrolet,Colorado,2017.0,90000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+160000000.0,Ford,Transit,2006.0,99999.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,7.0
+700000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+448000000.0,Hyundai,Santa Fe,2011.0,131000.0,Đã sử dụng,Tự động,Dầu,Hàn Quốc,SUV,5.0
+399000000.0,Kia,Morning,2021.0,30000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+440000000.0,Toyota,Fortuner,2015.0,90000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+170000000.0,Ford,Everest,2005.0,9999.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Sedan,8.0
+468000000.0,Mercedes Benz,A Class,2013.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+830000000.0,Toyota,Corolla Cross,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+795000000.0,Toyota,Fortuner,2019.0,90000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+175000000.0,Chevrolet,Spark,2015.0,74000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+1449000000.0,Porsche,Cayenne,2010.0,55000.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,5.0
+292000000.0,Vinfast,Fadil,2019.0,34168.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+1600000000.0,Kia,Carnival,2022.0,34000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,6.0
+305000000.0,Toyota,Innova,2013.0,11000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+445000000.0,Kia,Cerato,2020.0,59720.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+490000000.0,Audi,Q5,2010.0,96000.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,5.0
+460000000.0,Mazda,3,2019.0,68000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1639000000.0,Mercedes Benz,E Class,2022.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+569000000.0,Ford,Transit,2018.0,112000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,MPV,16.0
+920000000.0,Kia,Quoris,2016.0,60000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+789000000.0,Toyota,Fortuner,2019.0,142000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+418000000.0,Honda,City,2018.0,27000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+698000000.0,Mitsubishi,Xpander Cross,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,7.0
+552000000.0,Toyota,Raize,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+1380000000.0,Ford,Everest,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,SUV,7.0
+445000000.0,MG,ZS,2020.0,15000.0,Đã sử dụng,Tự động,Xăng,Trung Quốc,SUV,5.0
+265000000.0,Ford,Focus,2011.0,105000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+870000000.0,Kia,Sedona,2020.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,9.0
+760000000.0,Mitsubishi,Triton,2023.0,0.0,Mới,Tự động,Dầu,Thái Lan,Pick up,5.0
+599900000.0,Suzuki,XL 7,2022.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+425000000.0,Chevrolet,Captiva,2016.0,114000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,7.0
+500000000.0,Toyota,Innova,2019.0,86000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,8.0
+365000000.0,Hyundai,Accent,2019.0,140000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+920000000.0,Hyundai,Santa Fe,2020.0,45000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+165000000.0,Ford,Territory,2023.0,5.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+565000000.0,Kia,Seltos,2020.0,65000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+730000000.0,Toyota,Corolla Cross,2020.0,35555.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+170000000.0,Ford,Ranger,2007.0,255000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Pick up,5.0
+245000000.0,Mercedes Benz,C Class,2008.0,13000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+530000000.0,Mazda,CX 5,2017.0,100000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+350000000.0,Hyundai,Grand Starex,2011.0,250000.0,Đã sử dụng,Tự động,Dầu,Hàn Quốc,Pick up,4.0
+235000000.0,Kia,Morning,2018.0,68866.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Hatchback,5.0
+275000000.0,Toyota,Innova,2011.0,135000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+1238000000.0,Mercedes Benz,C Class,2021.0,7890.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1635000000.0,BMW,3 Series,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,4.0
+355000000.0,Hyundai,Genesis,2009.0,91512.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,5.0
+383000000.0,Kia,Soluto,2021.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1180000000.0,Toyota,Camry,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+349000000.0,Toyota,Vios,2019.0,53000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+865000000.0,Vinfast,1083,2021.0,26000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+230000000.0,Toyota,Innova,2007.0,91000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+370000000.0,Hyundai,Accent,2020.0,60000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+485000000.0,Ford,Ranger,2019.0,48000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+435000000.0,Mazda,BT 50,2021.0,56000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,SUV,5.0
+278000000.0,Ford,Transit,2023.0,0.0,Mới,Số sàn,Dầu,Việt Nam,Van,16.0
+275000000.0,Chevrolet,Cruze,2016.0,71000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+380000000.0,Mitsubishi,Attrage,2021.0,23000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+177000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+879000000.0,Volkswagen,T-Cross,2023.0,0.0,Mới,Tự động,Xăng,Đức,SUV,5.0
+799000000.0,Hyundai,Tucson,2022.0,34000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,2.0
+316000000.0,Hyundai,Grand i10,2018.0,26000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+748000000.0,Vinfast,Lux A2.0,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+535000000.0,Mazda,3,2022.0,13000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+707000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,Pick up,5.0
+318000000.0,Toyota,Wigo,2019.0,27000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Hatchback,5.0
+265000000.0,Hyundai,Avante,2012.0,120000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+185000000.0,Toyota,Corolla Altis,2004.0,80000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+265000000.0,Toyota,Innova,2007.0,156000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+298000000.0,Mazda,2,2015.0,61000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+609000000.0,Honda,City,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+179000000.0,Ford,Mondeo,2003.0,59000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+520000000.0,Toyota,Raize,2022.0,21000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,5.0
+840000000.0,Hyundai,Tucson,2023.0,3600.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+850000000.0,Chevrolet,Trailblazer,2019.0,33000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,5.0
+799000000.0,Mercedes Benz,C Class,2017.0,46000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+142000000.0,Mitsubishi,Xpander,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+550000000.0,Toyota,Innova,2019.0,69000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+598000000.0,Mazda,BT 50,2021.0,25000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,2.0
+498000000.0,Chevrolet,Colorado,2018.0,57579.0,Đã sử dụng,Tự động,Dầu,Mỹ,Pick up,5.0
+496000000.0,Honda,City,2021.0,23000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+170000000.0,Hyundai,Santa Fe,2004.0,245000.0,Đã sử dụng,Số sàn,Dầu,Hàn Quốc,SUV,5.0
+418000000.0,Toyota,Vios,2018.0,5000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+560000000.0,Chevrolet,Trailblazer,2018.0,76000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,7.0
+490000000.0,Suzuki,XL 7,2020.0,29000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+689000000.0,Kia,Seltos,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+1499000000.0,Volkswagen,Tiguan,2023.0,0.0,Mới,Tự động,Xăng,Đức,Sedan,7.0
+260000000.0,Ford,Fiesta,2014.0,63000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+155000000.0,Ford,Escape,2006.0,170000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+310000000.0,Isuzu,Dmax,2016.0,123800.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Pick up,5.0
+250000000.0,Hyundai,Accent,2014.0,211963.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+498000000.0,Kia,Cerato,2019.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+260000000.0,Kia,Morning,2016.0,83251.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+458000000.0,Vinfast,VF5,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,Sedan,4.0
+435000000.0,Toyota,Vios,2023.0,1200.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+525000000.0,Toyota,Corolla Altis,2017.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+205000000.0,Hyundai,Grand i10,2015.0,249889.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Sedan,5.0
+875000000.0,Honda,CR V,2021.0,41000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+775000000.0,Hyundai,Elantra,2023.0,0.0,Mới,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+265000000.0,Ford,Fiesta,2015.0,98000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+779000000.0,Audi,A4,2016.0,56000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+505000000.0,Toyota,Vios,2021.0,13000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+795000000.0,Mitsubishi,Outlander,2022.0,9000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+770000000.0,Ford,Everest,2019.0,60000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,SUV,7.0
+849000000.0,Toyota,Corolla Cross,2021.0,24000.0,Đã sử dụng,Tự động,Hybrid,Thái Lan,SUV,5.0
+238000000.0,Toyota,Innova,2008.0,12798.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+1839000000.0,Lexus,ES,2019.0,45000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+1028000000.0,Mitsubishi,Pajero Sport,2021.0,50000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+1890000000.0,Mercedes Benz,GLS Class,2016.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+868000000.0,Hyundai,Tucson,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,5.0
+195000000.0,Suzuki,Dòng khác,2020.0,60000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Van,2.0
+476000000.0,Toyota,Innova,2017.0,74000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+660000000.0,Peugeot,2008,2021.0,12000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+360000000.0,Hyundai,Dòng khác,2014.0,300000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Mui trần,2.0
+330000000.0,Toyota,RAV4,2008.0,65000.0,Đã sử dụng,Tự động,Xăng,Mỹ,SUV,7.0
+685000000.0,Nissan,X trail,2020.0,39000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+255000000.0,Toyota,Innova,2008.0,128000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,8.0
+619000000.0,Kia,K3,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,2.0
+418000000.0,Ford,Ranger,2016.0,71000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+780000000.0,Mitsubishi,Triton,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Pick up,5.0
+140000000.0,Isuzu,Hi lander,2008.0,400.0,Đã sử dụng,Số sàn,Dầu,Nhật Bản,MPV,5.0
+469000000.0,Honda,City,2021.0,71000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+536000000.0,Toyota,Avanza,2023.0,1000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+545000000.0,Suzuki,XL 7,2022.0,15000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,MPV,7.0
+1350000000.0,Kia,Carnival,2022.0,14000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,MPV,7.0
+1750000000.0,Kia,Carnival,2022.0,5000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+799000000.0,Toyota,Corolla Cross,2021.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+559000000.0,Honda,City,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+425000000.0,Hyundai,Elantra,2017.0,78000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+835000000.0,Hyundai,Santa Fe,2019.0,20000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1075000000.0,Toyota,Fortuner,2022.0,20000.0,Đã sử dụng,Tự động,Dầu,Nhật Bản,SUV,6.0
+350000000.0,Ford,Focus C Max,2013.0,50000.0,Đã sử dụng,Tự động,Xăng,Mỹ,Hatchback,5.0
+785000000.0,LandRover,Range Rover Evoque,2013.0,60000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,5.0
+755000000.0,Mercedes Benz,CLA Class,2014.0,96000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,5.0
+318000000.0,Vinfast,Fadil,2021.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+780000000.0,Hyundai,Santa Fe,2018.0,68000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+949000000.0,Mazda,CX 8,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+428000000.0,Toyota,Vios,2022.0,42000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+625000000.0,Mazda,6,2020.0,42000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+510000000.0,Toyota,Rush,2019.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+119000000.0,Daewoo,Matiz,2009.0,200000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+752000000.0,Toyota,Corolla Cross,2022.0,39000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+575000000.0,Honda,Civic,2019.0,32000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+245000000.0,Toyota,Vios,2010.0,10110.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,5.0
+580000000.0,Kia,Seltos,2020.0,22000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+389000000.0,Honda,Brio,2021.0,24000.0,Đã sử dụng,Bán tự động,Xăng,Nhật Bản,Hatchback,5.0
+175000000.0,Kia,Morning,2010.0,123456.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+380000000.0,Ford,EcoSport,2016.0,65000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+273000000.0,Suzuki,Celerio,2018.0,50000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+380000000.0,Hyundai,Genesis,2011.0,105000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,4.0
+235000000.0,Honda,Civic,2009.0,120000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1050000000.0,Vinfast,VF8,2023.0,2.0,Đã sử dụng,Tự động,Hybrid,Việt Nam,SUV,5.0
+338000000.0,Toyota,Vios,2017.0,72346.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+130000000.0,Toyota,Corolla Altis,2002.0,123456.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+555000000.0,Mitsubishi,Outlander,2018.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+125000000.0,Toyota,Zace,2003.0,200000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,8.0
+288000000.0,Ford,Escape,2012.0,82186.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+159000000.0,Daewoo,Lacetti,2010.0,160000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Sedan,5.0
+938000000.0,Mercedes Benz,C Class,2018.0,23000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+465000000.0,Ford,EcoSport,2020.0,10000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+425000000.0,Toyota,Vios,2019.0,51251.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+405000000.0,Honda,City,2020.0,75000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+350000000.0,Ford,Fiesta,2018.0,42000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+610000000.0,Honda,Civic,2019.0,69000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+355000000.0,Ford,Escort,2017.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+468000000.0,Kia,Soul,2014.0,45000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,SUV,5.0
+240000000.0,Kia,Carens,2010.0,109997.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+1835000000.0,Mercedes Benz,GLC,2021.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,2.0
+408000000.0,Toyota,Avanza,2020.0,33550.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,5.0
+610000000.0,Ford,Ranger,2018.0,63000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+1359000000.0,Mercedes Benz,GLC Class,2020.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+588000000.0,Mitsubishi,Xpander Cross,2022.0,38000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+345000000.0,Hyundai,Genesis,2009.0,86000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,4.0
+865000000.0,Mitsubishi,Outlander,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,7.0
+125000000.0,Ford,Mondeo,2004.0,12000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+479000000.0,Mitsubishi,Xpander,2021.0,17000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,7.0
+200000000.0,Toyota,Camry,2001.0,100000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,Sedan,5.0
+342000000.0,Mitsubishi,Attrage,2023.0,0.0,Mới,Số sàn,Xăng,Nhật Bản,Sedan,5.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+625000000.0,Ford,Ranger,2022.0,19000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,Pick up,2.0
+699000000.0,Mazda,6,2021.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+639000000.0,Kia,Sorento,2017.0,76000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+1150000000.0,BMW,Dòng khác,2017.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,4.0
+535000000.0,Toyota,Innova,2017.0,90000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,8.0
+439000000.0,Toyota,Innova,2016.0,90000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+1479000000.0,Mercedes Benz,GLC,2020.0,57000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+755000000.0,Toyota,Corolla Cross,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+356000000.0,Toyota,Innova,2016.0,72000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+118000000.0,Mercedes Benz,MB,2003.0,218000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,6.0
+335000000.0,Kia,Rio,2016.0,55000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+300000000.0,Hyundai,Grand i10,2019.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+195000000.0,Mitsubishi,Triton,2011.0,90000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,Pick up,5.0
+325000000.0,Kia,Morning,2019.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+345000000.0,Honda,City,2014.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+225000000.0,Hyundai,Grand i10,2019.0,123.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,Hatchback,5.0
+289000000.0,Mazda,3,2019.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,6.0
+438000000.0,Ford,Focus,2018.0,49000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+335000000.0,Ford,Everest,2010.0,125000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+358000000.0,Ford,Transit,2014.0,189000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,6.0
+420000000.0,Mitsubishi,Xpander,2019.0,130000.0,Đã sử dụng,Số sàn,Xăng,Nước khác,MPV,7.0
+395000000.0,Toyota,Wigo,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,Hatchback,5.0
+910000000.0,Ford,Everest,2020.0,41000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+659000000.0,Kia,Sorento,2018.0,68789.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+1090000000.0,Vinfast,VF8,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+395000000.0,Ford,Transit,2015.0,120000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,MPV,6.0
+469000000.0,Honda,CR V,2013.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+465000000.0,Mazda,2,2021.0,23000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Hatchback,5.0
+385000000.0,Toyota,Prado,2004.0,5000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+479000000.0,Toyota,Vios,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,Sedan,2.0
+555000000.0,Kia,K3,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+699000000.0,Honda,HR-V,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+410000000.0,Ford,EcoSport,2018.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+235000000.0,Ford,Focus,2012.0,100.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+895000000.0,Ford,Everest,2019.0,33000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+175000000.0,Hyundai,Grand i10,2016.0,3568.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Hatchback,5.0
+310000000.0,Kia,Cerato,2011.0,780000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Sedan,5.0
+1160000000.0,Toyota,Camry,2022.0,41800.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+485000000.0,Hyundai,Accent,2022.0,9500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+969000000.0,Hyundai,Santa Fe,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,7.0
+488000000.0,Toyota,Vios,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+426000000.0,Hyundai,Accent,2023.0,0.0,Mới,Số sàn,Xăng,Hàn Quốc,Sedan,5.0
+445000000.0,Hyundai,Accent,2022.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+490000000.0,Kia,Cerato,2019.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+505000000.0,Ford,Transit,2016.0,82000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Van,6.0
+470000000.0,Ford,Ranger,2019.0,95000.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+925000000.0,Toyota,Fortuner,2020.0,60000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+675000000.0,Vinfast,Lux A2.0,2021.0,10000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1099000000.0,Mercedes Benz,C Class,2021.0,31000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+370000000.0,Honda,Brio,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Hatchback,5.0
+535000000.0,Ford,Ranger,2021.0,39000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+610000000.0,Toyota,Innova,2018.0,82738.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,8.0
+600000000.0,Toyota,Innova,2020.0,157000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+605000000.0,Honda,Civic,2019.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+135000000.0,Toyota,Corolla,2000.0,126000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,Sedan,5.0
+1090000000.0,Vinfast,VF8,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,7.0
+479000000.0,Mitsubishi,Xpander,2021.0,27000.0,Đã sử dụng,Số sàn,Xăng,Nước khác,MPV,7.0
+530000000.0,Toyota,Corolla Altis,2017.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+770000000.0,Mercedes Benz,CLA Class,2015.0,68000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+420000000.0,Ford,Dòng khác,2015.0,60000.0,Đã sử dụng,Bán tự động,Dầu,Mỹ,Pick up,5.0
+175000000.0,Daewoo,Lacetti,2009.0,160000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+640000000.0,Toyota,Previa,2010.0,72000.0,Đã sử dụng,Tự động,Xăng,Mỹ,MPV,7.0
+545000000.0,Ford,Ranger,2019.0,54998.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+770000000.0,Mitsubishi,Triton,2022.0,94000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Pick up,5.0
+220000000.0,Toyota,Innova,2008.0,192000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,8.0
+699000000.0,Volkswagen,Virtus,2023.0,0.0,Mới,Tự động,Xăng,Đức,Sedan,5.0
+615000000.0,Honda,CR V,2017.0,70000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+388000000.0,Kia,Morning,2022.0,12000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+455000000.0,Hyundai,Stargazer,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+495000000.0,Kia,Sorento,2015.0,110000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+665000000.0,Hyundai,Tucson,2018.0,70000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,5.0
+238000000.0,Toyota,Innova,2008.0,12798.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+119000000.0,Mitsubishi,Xpander,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+620000000.0,Ford,Ranger,2017.0,40000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+498000000.0,Honda,City,2023.0,22600.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+506000000.0,Toyota,Innova,2018.0,100000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+515000000.0,Kia,Rondo,2018.0,32000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+185000000.0,Chevrolet,Captiva,2007.0,98000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+968000000.0,Honda,CR V,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,7.0
+220000000.0,Toyota,Corolla Altis,2008.0,125000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+558000000.0,Toyota,Avanza,2023.0,0.0,Mới,Số sàn,Xăng,Việt Nam,MPV,7.0
+169000000.0,Kia,Morning,2009.0,80000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+1250000000.0,Kia,Carnival,2022.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,8.0
+635000000.0,Honda,HR-V,2021.0,53000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,SUV,5.0
+360000000.0,Ford,Focus,2015.0,55000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+769000000.0,Hyundai,Tucson,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+419000000.0,Honda,City,2019.0,32000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1350000000.0,Ford,Everest,2022.0,11000.0,Đã sử dụng,Tự động,Dầu,Nước khác,SUV,7.0
+406000000.0,Mitsubishi,Attrage,2021.0,10000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+325000000.0,Kia,Morning,2021.0,14000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+469000000.0,Mitsubishi,Xpander,2019.0,52000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,MPV,5.0
+120000000.0,Mitsubishi,Pajero,2008.0,160000.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,SUV,5.0
+155000000.0,Hyundai,Tucson,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+335000000.0,Hyundai,Genesis,2010.0,800000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Coupe,5.0
+415000000.0,Ford,EcoSport,2018.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+555000000.0,Toyota,Fortuner,2015.0,120.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+568000000.0,Ford,Ranger,2022.0,9000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,2.0
+470000000.0,Kia,Cerato,2019.0,51000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+499000000.0,Mazda,CX 5,2016.0,47000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+458000000.0,Vinfast,VF5,2023.0,0.0,Mới,Tự động,Điện,Việt Nam,SUV,5.0
+680000000.0,Mazda,CX 5,2020.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+360000000.0,Ford,Ranger,2016.0,99999.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+420000000.0,Honda,Brio,2021.0,6000.0,Đã sử dụng,Tự động,Xăng,Nước khác,Hatchback,5.0
+1250000000.0,Mercedes Benz,GLC,2019.0,48200.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,5.0
+470000000.0,Hyundai,Kona,2019.0,11000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+535000000.0,Ford,Ranger,2020.0,26000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,5.0
+1400000000.0,Ford,Everest,2022.0,10000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,9.0
+849000000.0,Subaru,Forester,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,5.0
+337000000.0,Ford,Fiesta,2018.0,45000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+1880000000.0,Lexus,ES,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+120000000.0,Mitsubishi,Lancer,2004.0,140.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+300000000.0,Kia,Cerato,2010.0,100000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+449000000.0,Toyota,Vios,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+144000000.0,Mercedes Benz,Dòng khác,2003.0,123000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+661000000.0,Honda,BR-V,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,MPV,7.0
+435000000.0,Toyota,Innova,2016.0,60000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+345000000.0,Chevrolet,Colorado,2018.0,10000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,Pick up,5.0
+260000000.0,Kia,Morning,2016.0,41000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+565000000.0,Toyota,Camry,2016.0,40000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,5.0
+478000000.0,Toyota,Vios,2021.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+275000000.0,Kia,Morning,2017.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+499000000.0,Kia,Optima,2016.0,96500.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+575000000.0,Toyota,Rush,2021.0,35000.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+265000000.0,Mazda,2,2014.0,7777.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+525000000.0,Kia,Sorento,2016.0,58000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+855000000.0,Honda,CR V,2020.0,31000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+600000000.0,Mazda,5,2017.0,67000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+385000000.0,MG,5,2023.0,0.0,Mới,Tự động,Xăng,Thái Lan,Sedan,5.0
+125000000.0,Mitsubishi,Jolie,2003.0,275800.0,Đã sử dụng,Số sàn,Xăng,Nhật Bản,SUV,8.0
+950000000.0,Toyota,Fortuner,2021.0,35000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+225000000.0,Hyundai,i20,2011.0,78000.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,Hatchback,5.0
+452000000.0,Hyundai,Dòng khác,2022.0,0.0,Mới,Tự động,Xăng,Nước khác,MPV,7.0
+469000000.0,Suzuki,XL 7,2020.0,47000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+619000000.0,Mazda,3,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,Sedan,5.0
+639000000.0,Hyundai,Santa Fe,2014.0,56000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,7.0
+548500000.0,Mitsubishi,Xpander,2023.0,10.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+899999999.0,Ford,Territory,2023.0,99.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+270000000.0,Hyundai,Grand i10,2019.0,62000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+320000000.0,Ford,EcoSport,2015.0,90000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+485000000.0,Ford,EcoSport,2020.0,18000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+668000000.0,Mitsubishi,Pajero Sport,2018.0,47000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+349000000.0,Hyundai,Accent,2014.0,76000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,5.0
+598000000.0,Hyundai,Elantra,2020.0,53000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+438000000.0,Ford,Focus,2019.0,38000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+110000000.0,Mitsubishi,Jolie,2004.0,12340.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,SUV,7.0
+270000000.0,Hyundai,Grand i10,2018.0,80000.0,Đã sử dụng,Số sàn,Xăng,Ấn Độ,Sedan,5.0
+252000000.0,Kia,Morning,2015.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,2.0
+539000000.0,Toyota,Innova,2019.0,81000.0,Đã sử dụng,Số sàn,Xăng,Nước khác,MPV,8.0
+335000000.0,Vinfast,Fadil,2022.0,12999.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+1150000000.0,Mercedes Benz,C Class,2020.0,17000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+246000000.0,Toyota,Innova,2008.0,149958.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,8.0
+515000000.0,Nissan,X trail,2016.0,67000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,SUV,7.0
+480000000.0,Hyundai,Elantra,2020.0,65000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+369000000.0,Kia,Morning,2021.0,15000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+599000000.0,Hyundai,Accent,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+768000000.0,Ford,Territory,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+515000000.0,Suzuki,XL 7,2022.0,80000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+570000000.0,MG,ZS,2022.0,0.0,Mới,Tự động,Xăng,Thái Lan,SUV,5.0
+450000000.0,Toyota,Vios,2021.0,95005.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+552000000.0,Toyota,Raize,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+630000000.0,Mazda,CX 5,2017.0,60000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+665000000.0,Toyota,Veloz Cross,2022.0,15000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+609000000.0,Honda,HR-V,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+965000000.0,Haval,H6,2023.0,0.0,Mới,Tự động,Hybrid,Thái Lan,SUV,5.0
+399000000.0,MG,5,2023.0,0.0,Mới,Số sàn,Xăng,Trung Quốc,Sedan,5.0
+445000000.0,Mazda,3,2018.0,94000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+280000000.0,Vinfast,Fadil,2019.0,48000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+579000000.0,Mazda,3,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,Sedan,4.0
+530000000.0,Vinfast,Lux A2.0,2020.0,39.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Pick up,5.0
+420000000.0,Volkswagen,Tiguan,2012.0,100000.0,Đã sử dụng,Tự động,Xăng,Đức,SUV,5.0
+499000000.0,Suzuki,XL 7,2021.0,69999.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,5.0
+708000000.0,Hyundai,Tucson,2019.0,51000.0,Đã sử dụng,Tự động,Dầu,Việt Nam,SUV,5.0
+585000000.0,Mitsubishi,Xpander,2022.0,20200.0,Đã sử dụng,Tự động,Xăng,Nước khác,SUV,7.0
+230000000.0,Nissan,X trail,2009.0,200000.0,Đã sử dụng,Tự động,Xăng,Đài Loan,SUV,5.0
+180000000.0,Ford,Ranger,2009.0,9999.0,Đã sử dụng,Số sàn,Dầu,Thái Lan,Pick up,5.0
+536000000.0,Mitsubishi,Xpander,2021.0,25000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,MPV,7.0
+1359000000.0,Mercedes Benz,GLC,2021.0,17000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+1850000000.0,Lexus,ES,2019.0,40000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+330000000.0,Mercedes Benz,C Class,2010.0,120000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+150000000.0,Toyota,Corolla Altis,2003.0,150000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+435000000.0,Chevrolet,Captiva,2014.0,59000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+200000000.0,Kia,Morning,2015.0,90000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Hatchback,2.0
+810000000.0,Audi,A5,2016.0,71000.0,Đã sử dụng,Tự động,Xăng,Đức,Sedan,5.0
+828000000.0,Toyota,Fortuner,2020.0,65000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+979000000.0,Ford,Ranger,2023.0,0.0,Mới,Tự động,Dầu,Mỹ,Sedan,5.0
+525000000.0,Mitsubishi,Triton,2021.0,33000.0,Đã sử dụng,Tự động,Dầu,Thái Lan,Pick up,2.0
+138000000.0,Ford,Escape,2004.0,150000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+368000000.0,Suzuki,Ciaz,2019.0,48000.0,Đã sử dụng,Tự động,Xăng,Thái Lan,Sedan,5.0
+730000000.0,Toyota,Yaris,2023.0,0.0,Mới,Tự động,Xăng,Nước khác,SUV,5.0
+235000000.0,Honda,Civic,2010.0,555555.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,4.0
+900000000.0,Hyundai,Solati,2019.0,105000.0,Đã sử dụng,Số sàn,Dầu,Hàn Quốc,SUV,16.0
+525000000.0,Honda,City,2022.0,16000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+420000000.0,Mazda,6,2015.0,94000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+268000000.0,Honda,Accord,2009.0,112000.0,Đã sử dụng,Tự động,Xăng,Nhật Bản,Sedan,4.0
+160000000.0,Honda,Dòng khác,2005.0,150000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+210000000.0,Chevrolet,Cruze,2012.0,80000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+525000000.0,Mitsubishi,Xpander,2020.0,32000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+660000000.0,Toyota,Veloz,2022.0,12000.0,Đã sử dụng,Tự động,Xăng,Nước khác,MPV,7.0
+1795000000.0,BMW,X3,2023.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
+1690000000.0,Mercedes Benz,C Class,2022.0,30.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+135000000.0,Toyota,Vios,2009.0,20000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+185000000.0,Chevrolet,Captiva,2009.0,169000.0,Đã sử dụng,Số sàn,Xăng,Mỹ,SUV,7.0
+412000000.0,Toyota,Vios,2021.0,65300.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+150000000.0,Isuzu,Hi lander,2004.0,10000.0,Đã sử dụng,Số sàn,Dầu,Việt Nam,SUV,7.0
+666666000.0,Vinfast,Lux A2.0,2022.0,30000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+1469000000.0,Hyundai,Dòng khác,2023.0,0.0,Mới,Tự động,Dầu,Việt Nam,SUV,7.0
+460000000.0,Toyota,Corolla Altis,2017.0,70000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+243000000.0,Kia,Morning,2015.0,64000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Hatchback,5.0
+905000000.0,Mitsubishi,Triton,2022.0,0.0,Mới,Tự động,Dầu,Nhật Bản,Pick up,5.0
+315000000.0,Peugeot,408,2016.0,47000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+119000000.0,Hyundai,Centennial,2005.0,15639.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+430000000.0,Kia,Cerato,2017.0,52639.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+260000000.0,Hyundai,Avante,2011.0,70000.0,Đã sử dụng,Tự động,Xăng,Hàn Quốc,Sedan,5.0
+476000000.0,Volkswagen,Polo,2021.0,2900.0,Đã sử dụng,Tự động,Xăng,Ấn Độ,Hatchback,5.0
+235000000.0,Honda,Civic,2009.0,120686.0,Đã sử dụng,Tự động,Xăng,Việt Nam,Sedan,5.0
+749000000.0,Mazda,CX 5,2023.0,0.0,Mới,Tự động,Xăng,Nhật Bản,SUV,5.0
+136000000.0,Toyota,Vios,2009.0,9000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+328000000.0,Toyota,Fortuner,2009.0,165000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,7.0
+199000000.0,Kia,Forte,2010.0,24000.0,Đã sử dụng,Số sàn,Xăng,Hàn Quốc,Sedan,5.0
+259000000.0,Chevrolet,Cruze,2017.0,95000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+228000000.0,Toyota,Vios,2014.0,108000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,Sedan,5.0
+610000000.0,Mazda,CX 5,2018.0,55000.0,Đã sử dụng,Tự động,Xăng,Việt Nam,SUV,5.0
+719000000.0,Toyota,Innova,2022.0,19000.0,Đã sử dụng,Số sàn,Xăng,Việt Nam,MPV,10.0
+519000000.0,Kia,Sonet,2022.0,0.0,Mới,Tự động,Xăng,Việt Nam,SUV,5.0
