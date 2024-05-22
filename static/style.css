@@ -1,0 +1,123 @@
+/* Reset some default styles for consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(240, 240, 240, 0.9);
+    /* background-image: url('image/background1.jpg');
+    background-size: cover; /* Để hình nền nằm kín trang */
+    background-repeat: no-repeat; /* Không lặp lại hình nền */
+}
+
+/* Navbar */
+.navbar {
+    background-color: #cdcdcd;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 24px;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/* Container */
+.container {
+    background-color: rgba(240, 240, 240, 0.9);
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Tùy chỉnh container */
+.custom-container {
+    padding: 10px;
+}
+
+/* Tùy chỉnh nút Toggle */
+.custom-toggler {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+}
+
+.custom-toggler:focus {
+    box-shadow: none;
+}
+
+.custom-toggler:hover {
+    color: #00f;
+}
+
+/* Tùy chỉnh các liên kết */
+.nav-link {
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.nav-link:hover {
+    color: #000000;
+}
+
+/* Headers */
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+h3 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Form Elements */
+.form-control {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Buttons */
+.btn {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+/* Alert Box for Estimated Price */
+.border-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* Responsive Layout for Small Screens */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+}
