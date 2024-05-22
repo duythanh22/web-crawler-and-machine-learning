@@ -1,0 +1,136 @@
+
+
+{% extends 'base.html' %}
+
+{% block title %} Dự đoán giá xe{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="d-grid mx-auto col">
+        <div>
+            <h3 class="d-flex justify-content-center">Xin chào!!!!!!!!!</h3>
+            <h1 class="d-flex justify-content-center">Mô hình dự đoán giá xe</h1>
+            <br><br>
+        </div>
+
+        <!-- INPUTS -->
+        <div>
+            {% if pred %}
+                {% set pred_value = pred|float|round|int %}
+                {% set deviation = (pred_value * 0.10)|int %}
+                <div class="d-flex justify-content-center">
+                    <h4 class="d-inline-flex p-2 border border-success rounded">Xe của bạn được ước lượng với giá {{ pred_value}} vnđ (± 10%)</h4>
+                </div>
+                <br><br>
+            {% endif %}
+
+            <form action="/" method="POST">
+                <div class="row">
+                    <div class="col-sm text-left">
+                        <h5>Car brand (Hãng xe)</h5>
+                        <label for="car-brand"></label>
+                        <input type="text" class="form-control" id="car-brand" name="car-brand" style="width: 300px;"/>
+                        <br>
+                    </div>
+
+                    <div class="col-sm text-left">
+                        <h5>Car model (Dòng xe)</h5>
+                        <label for="car-model"></label>
+                        <input type="text" class="form-control" id="car-model" name="car-model" style="width: 300px;"/>
+                        <br>
+                    </div>
+
+                    <div class="col-sm text-left">
+                        <h5>Car origin (Xuất xứ)</h5>
+                        <label for="car-origin"></label>
+                        <input type="text" class="form-control" id="car-origin" name="car-origin" style="width: 300px;"/>
+                        <br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm text-left">
+                        <h5>Manufacturing date (Năm sản xuất)</h5>
+                        <label for="mf-date"></label>
+                        <input type="number" class="form-control" id="mf-date" name="mf-date" min="1980" style="width: 300px;"/>
+                        <br>
+                    </div>
+
+                    <div class="col-sm text-left">
+                        <h5>Mileage (Số KM đã đi)</h5>
+                        <label for="mileage"></label>
+                        <input type="number" class="form-control" id="mileage" name="mileage" min="0" style="width: 300px;"/>
+                        <br>
+                    </div>
+
+                    <div class="col-sm text-left">
+                        <h5>Car seats (Số chỗ)</h5>
+                        <label for="car-seats"></label>
+                        <input type="number" class="form-control" id="car-seats" name="car-seats" min="2" max="16" style="width: 300px;"/>
+                        <br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-lg text-left">
+                        <h5>Gear Box (Hộp số)</h5>
+                        <label for="gearbox"></label>
+                        <input type="text" id="gearbox" name="gearbox" list="gearbox-list" placeholder="Chọn hoặc nhập giá trị" style="width: 500px;">
+                        <datalist id="gearbox-list">
+                            <option value="Tự động">
+                            <option value="Số sàn">
+                            <option value="Bán tự động">
+                        </datalist>
+                    </div>
+
+                    <div class="form-group col-lg text-left">
+                        <h5>Condition (Tình trạng)</h5>
+                        <label for="condition"></label>
+                        <input type="text" id="condition" name="condition" list="condition-list" placeholder="Chọn hoặc nhập giá trị" style="width: 500px;">
+                        <datalist id="condition-list">
+                            <option value="Mới">
+                            <option value="Đã sử dụng">
+                        </datalist>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-lg text-left">
+                        <h5>Fuel (Nhiên liệu)</h5>
+                        <label for="fuel"></label>
+                        <input type="text" id="fuel" name="fuel" list="fuel-list" placeholder="Chọn hoặc nhập giá trị" style="width: 500px;">
+                        <datalist id="fuel-list">
+                            <option value="Điện">
+                            <option value="Xăng">
+                            <option value="Dầu">
+                            <option value="Hybrid">
+                        </datalist>
+                    </div>
+
+                    <div class="form-group col-lg text-left">
+                        <h5>Car type (Dòng xe)</h5>
+                        <label for="cartype"></label>
+                        <input type="text" id="cartype" name="cartype" list="cartype-list" placeholder="Chọn hoặc nhập giá trị" style="width: 500px;">
+                        <datalist id="cartype-list">
+                            <option value="Suv">
+                            <option value="Sedan">
+                            <option value="MPV">
+                            <option value="Van">
+                            <option value="Pick up">
+                            <option value="Coupe">
+                            <option value="Hatchback">
+                            <option value="Mui trần">
+                        </datalist>
+                    </div>
+                </div>
+
+                <br><br>
+                <button type="submit" class="btn btn-primary d-grid mx-auto">Ước lượng</button>
+                <br>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

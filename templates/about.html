@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+  <h1>Giới thiệu</h1>
+  <p>Trang web dự đoán giá xe ô tô đã qua sử dụng.</p>
+  <h2>Một số thông tin:</h2>
+  <ul>
+    <li>
+      Dữ liệu huấn luyện được lấy từ
+      <a href="https://xe.chotot.com/mua-ban-oto">https://xe.chotot.com/mua-ban-oto</a>. Với 15,382 dòng và 12 đặc trưng.
+    </li>
+    <li>Mô hình được sử dụng để huấn luyện là Random Forest, với các siêu tham số tốt nhất sau cùng: <br> max_depth: None, n_estimators: 200.
+    </li>
+    <li>Bộ dữ liệu sau khi làm sạch bao gồm 11,706 dòng và 11 đặc trưng.</li>
+    <li>Source code: <a href="https://github.com/duythanh22">github.com</a></li>
+  </ul>
+
+  <h2>Kết quả huấn luyện và đánh giá mô hình:</h2>
+  <ul>
+    <li>Các chỉ số đánh giá sau khi huấn luyện:</li>
+    <ul>
+      <li>MAE: 55,156,430.29</li>
+      <li>RMSE: 113,768,593.48</li>
+      <li>MAPE: 12.81%</li>
+      <li>R2_SQUARE: 0.87771</li>
+    </ul>
+    <li>Một số trực quan:</li>
+    <img src="../static/image/per1.png" alt="Hiệu suất 1" style="max-width: 100%;">
+    <img src="../static/image/per2.png" alt="Hiệu suất 2" style="max-width: 100%;">
+    <img src="../static/image/per3.png" alt="Hiệu suất 3" style="max-width: 100%;">
+  </ul>
+</div>
+{% endblock %}
